@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App_Sem04_02_Camara</string>
+    <string name="permiso">Solicitar permiso camara</string>
+</resources>
