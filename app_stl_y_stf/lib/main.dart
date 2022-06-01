@@ -15,9 +15,7 @@ class myStatelessApp extends StatelessWidget {
           title: Text("Ejm. de Stateless W!!!"),
         ),
         body: Center(
-          child: Text(
-              counter.toString(),
-            style: TextStyle(fontSize: 60),
+          child: myStatefullApp()
           ),
         ),
         //FAB
